@@ -11,6 +11,66 @@ int main(void)
 	return 0; //retour de la fonction main
 }
 
+
+/*
+*   Gestion de la mémoire en C
+*   https://ilay.org/yann/articles/mem/
+*/
+
+/*
+*   operations 
+*   + = addition
+*   - = soustraction
+*   * = multiplication
+*   / = division
+*   % = modulo
+*
+*   && = et
+*   || = ou
+*   ! = non
+*
+*   signe
+*   == = égalité
+*   != = différence
+*   > = supérieur
+*   < = inférieur
+*   >= = supérieur ou égal
+*   <= = inférieur ou égal
+*   = = affectation
+*   ^ = xor
+*   << = shift gauche
+*   >> = shift droite
+*   ~ = complément
+*
+*/
+
+/*
+*   tableau ou array
+*   array[x] = valeur x reprèsent la taille du tableau
+*   array[x] = {valeur, valeur, valeur, ..., NULL} 
+*/
+
+/*
+*   un pionteur est une variable qui pointe vers une adresse de mémoire comme 0x12345678.
+*
+*    void *ptr; //déclaration d'un pointeur de type void
+*    ptr = 0x12345678; //initialisation du pointeur à l'adresse 0x12345678
+*    ptr = &ptr; //initialisation du pointeur à l'adresse du pointeur
+*    ptr = 0; //initialisation du pointeur à 0
+*    ptr = NULL; //initialisation du pointeur à NULL
+*    ptr = (void *)0; //initialisation du pointeur à l'adresse 0
+*    ptr = (void *)&ptr; //initialisation du pointeur à l'adresse du pointeur
+*    ptr = (void *)0x12345678; //initialisation du pointeur à l'adresse 0x12345678
+*
+*   https://www.youtube.com/watch?v=KHXYGW8xySg
+*/
+
+/*
+*   maVariable = Valeur de maVariable; 
+*   &maVariable = Adresse de maVariable;
+*   *maVariable = Valeur de maVariable;
+*/
+
 /*
 *   %c = caractère
 *   %s = chaîne de caractères
@@ -29,6 +89,11 @@ int main(void)
 *   %n = nombre de caractères écrits
 *   %b = nombre en binaire
 */
+
+/*
+*   https://youtu.be/90hGCMC3Chc?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j
+*/
+
 
 /*  mettre une chaine de caractères dans une function
 char *ft_print_comb(char chaine[])
@@ -52,5 +117,4 @@ int main()
     printf(&chaine_main);
     return (0);
 }
-
 */
