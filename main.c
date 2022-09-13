@@ -108,7 +108,7 @@ char *ft_print_comb(char chaine[])
         }
     return (chaine);
 }
-
+--------------------------------------------------------------------------------
 int main()
 {
     char chaine_main[255];
@@ -117,4 +117,104 @@ int main()
     printf(&chaine_main);
     return (0);
 }
+
+------------------------------ CALCUL RECURSIF facteur ------------------------------
+
+int ft_iterative_factorial(int nb)
+{
+        int result;
+        int i;
+
+        i = 1;
+        result = 1;
+        if (nb <= 0)
+                return (0);
+        if (nb == 1)
+                return (1);
+        while (i <= nb)
+        {
+                result = i * result;
+                i++;
+        }
+        return (result);
+}
+
+------------------------------ CALCUL RECURSIF puissance --------------------
+
+int ft_recursive_power(int nb, int power)
+{
+    if (nb == 0)
+        return (0);
+    if (power == 0)
+        return (1);
+    return (nb * ft_recursive_power(nb, power - 1));
+}
+
+------------------------------ et NON RECURSIF ------------------------------
+
+int ft_iterative_power(int nb, int power)
+{
+    int multiplieur;
+    multiplieur = nb;
+    if (nb == 0)
+        return (0);
+    if (power == 0)
+        return (1);
+    while (power > 1)
+	{
+		nb *= multiplieur;
+		power--;
+	}
+    return (nb);
+}
+
+------------------------------ CALCULE RECURSIF Fibonnacci ------------------
+
+int ft_fibonacci(int index)
+{
+
+    int nb = 0;
+    int nb2 = 0;
+    int nb3 = 1;
+    int i;
+
+    i = 0;
+    if (index < 0)
+        return -1;
+    if (index == 0)
+        return 0;
+    if (index == 1)
+        return 1;
+    while (i < index)
+        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));
+    return 0;
+}
+
+------------------------------ et NON RECURSIF ------------------------------
+
+int ft_fibonacci(int index)
+{
+
+    int nb = 0;
+    int nb2 = 0;
+    int nb3 = 1;
+    int i;
+
+    i = 0;
+    if (index < 0)
+        return -1;
+    if (index == 0)
+        return 0;
+    if (index == 1)
+        return 1;
+    while (i < index)
+    {
+        nb = nb2 + nb3;
+        nb3 = nb2;
+        nb2 = nb;
+        i++;
+    }
+    return nb;
+}
+-----------------------------------------------------------------------------
 */
