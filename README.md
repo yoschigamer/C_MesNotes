@@ -10,12 +10,12 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lboi">
+    <td class="tg-lboi"><p>
       int ft_fibonacci(int index)<br>
 {<br>     int nb = 0;<br>
-    &emspint nb2 = 0;<br>
-    &emspint nb3 = 1;<br>
-    &emspint i;<br>
+    nb2 = 0;<br>
+    nb3 = 1;<br>
+    i;<br>
     i = 0;\n
     if (index < 0)<br>
         return -1;<br>
@@ -26,7 +26,7 @@
     while (i < index)<br>
         return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));<br>
     return 0;<br>
-}<br>d<br></td>
+}</p><br>d<br></td>
     <td class="tg-c3ow"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
