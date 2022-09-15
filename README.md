@@ -119,10 +119,10 @@ https://ilay.org/yann/articles/mem/
  long double | -1 × 1037 | 1 × 1037 |
  double | -1 × 1037 | 1 × 1037 |
  
- | The | octal |  set |
- |--------|-----|
-     000 | nul | 001 | soh | 002 | stx | 003 | etx | 004 | eot | 005 | enq | 006 | ack | 007 bel
-     010 bs | 011 ht | 012 nl | 013 vt | 014 np | 015 cr | 016 so | 017 si
+      The octal set:
+```
+     000 nul  001 soh  002 stx  003 etx  004 eot  005 enq  006 ack  007 bel
+     010 bs   011 ht   012 nl   013 vt   014 np   015 cr   016 so   017 si
      020 dle  021 dc1  022 dc2  023 dc3  024 dc4  025 nak  026 syn  027 etb
      030 can  031 em   032 sub  033 esc  034 fs   035 gs   036 rs   037 us
      040 sp   041  !   042  "   043  #   044  $   045  %   046  &   047  '
@@ -137,7 +137,7 @@ https://ilay.org/yann/articles/mem/
      150  h   151  i   152  j   153  k   154  l   155  m   156  n   157  o
      160  p   161  q   162  r   163  s   164  t   165  u   166  v   167  w
      170  x   171  y   172  z   173  {   174  |   175  }   176  ~   177 del
-
+```
      The hexadecimal set:
 
      00 nul   01 soh   02 stx   03 etx   04 eot   05 enq   06 ack   07 bel
@@ -167,15 +167,6 @@ https://ilay.org/yann/articles/mem/
       40  (    41  )    42  *    43  +    44  ,    45  -    46  .    47  /
       48  0    49  1    50  2    51  3    52  4    53  5    54  6    55  7
       56  8    57  9    58  :    59  ;    60  <    61  =    62  >    63  ?
-      64  @    65  A    66  B    67  C    68  D    69  E    70  F    71  G
-      72  H    73  I    74  J    75  K    76  L    77  M    78  N    79  O
-      80  P    81  Q    82  R    83  S    84  T    85  U    86  V    87  W
-      88  X    89  Y    90  Z    91  [    92  \    93  ]    94  ^    95  _
-      96  `    97  a    98  b    99  c   100  d   101  e   102  f   103  g
-     104  h   105  i   106  j   107  k   108  l   109  m   110  n   111  o
-     112  p   113  q   114  r   115  s   116  t   117  u   118  v   119  w
-     120  x   121  y   122  z   123  {   124  |   125  }   126  ~   127 del
-
 
 in build
 ===============================
