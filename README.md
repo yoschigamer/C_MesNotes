@@ -33,12 +33,5 @@
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
 </tbody>
 </table></div>
