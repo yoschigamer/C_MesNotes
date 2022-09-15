@@ -27,11 +27,6 @@
     while (i < index)<br>
         return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));<br>
     return 0;<br>
-}</p></td>
-    <td class="tg-c3ow"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
+}</p>
 </tbody>
 </table></div>
