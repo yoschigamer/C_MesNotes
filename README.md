@@ -19,10 +19,13 @@ int main(void)
 */
 
 
-|                                           Les operations                                           |
-|:--------------------------------------------------------------------------------------------------:|
-| + = addition <br> - = soustraction <br> * = multiplication <br> / = division <br> % = modulo <br> && = et <br> \|\| = ou <br> ! = non |
-
+| 0 |   Les Signes   |
+|:-:|:--------------:|
+| + |    addition    |
+| - |  soustraction  |
+| * | multiplication |
+| / |    division    |
+| % |     modulo     |
 
 | 0  |     Les Signes    |
 |:--:|:-----------------:|
