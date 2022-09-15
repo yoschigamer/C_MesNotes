@@ -19,10 +19,10 @@ int main(void)
 */
 
 /*
-*   operations 
-*   + = addition
-*   - = soustraction
-*   * = multiplication
+operations 
++ = addition
+- = soustraction
+* = multiplication
 *   / = division
 *   % = modulo
 *
