@@ -45,10 +45,10 @@ int main(void)
 *
 */
 
-|tableau ou array|
-|	-----------	|
-|array[x] = valeur x reprèsent la taille du tableau|
-|array[x] = {valeur, valeur, valeur, ..., NULL} |
+|                       tableau ou array                       |   |
+|:------------------------------------------------------------:|:-:|
+| array[x] = {valeur, valeur, valeur, ...,  NULL} \|           |   |
+| ```c array[x] = valeur x reprèsent la taille du tableau  ``` |   |
 
 /*
 *   un pionteur est une variable qui pointe vers une adresse de mémoire comme 0x12345678.
