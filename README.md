@@ -1,32 +1,26 @@
-<div class="tg-wrap"><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow"></th>
-    <th class="tg-c3ow"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lboi"><p>
-      int ft_fibonacci(int index)<br>
-{<br>
-    <p style="text-indent:20px;" nb = 0;</p><br>
-    inb2 = 0;<br>
-    nb3 = 1;<br>
-    i;<br>
-    i = 0;\n
-    if (index < 0)<br>
-        return -1;<br>
-    if (index == 0)<br>
-        return 0;<br>
-    if (index == 1)<br>
-        return 1;<br>
-    while (i < index)<br>
-        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));<br>
-    return 0;<br>
-}</p>
-</tbody>
-</table></div>
+\begin{table}[]
+\begin{tabular}{ll}
+\hline
+\multicolumn{1}{|c|}{} & \multicolumn{1}{c|}{} \\ \hline
+                       &                      
+\end{tabular}
+\caption{int ft_fibonacci(int index)
+{
+    int nb = 0;
+    int nb2 = 0;
+    int nb3 = 1;
+    int i;
+    i = 0;
+    if (index < 0)
+        return -1;
+    if (index == 0)
+        return 0;
+    if (index == 1)
+        return 1;
+    while (i < index)
+        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));
+    return 0;
+}
+}
+\label{tab:my-table}
+\end{table}
