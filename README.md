@@ -18,15 +18,15 @@
     int nb3 = 1;<br>
     int i;<br>
     i = 0;\n
-    if (index < 0)\n
-        return -1;\n
-    if (index == 0)\n
-        return 0;\n
-    if (index == 1)\n
-        return 1;\n
-    while (i < index)\n
-        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));
-    return 0;
+    if (index < 0)<br>
+        return -1;<br>
+    if (index == 0)<br>
+        return 0;<br>
+    if (index == 1)<br>
+        return 1;<br>
+    while (i < index)<br>
+        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));<br>
+    return 0;<br>
 }<br>d<br></td>
     <td class="tg-c3ow"></td>
     <td class="tg-0pky"></td>
