@@ -24,9 +24,19 @@ int main(void)
 | + = addition <br> - = soustraction <br> * = multiplication <br> / = division <br> % = modulo <br> && = et <br> \|\| = ou <br> ! = non |
 
 |                                                                                                          Les signes                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| == = égalité <br> != = différence<br> > = supérieur<br> < = inférieur<br> >= = supérieur ou égal<br> <= = inférieur ou égal<br> = = affectation<br> ^ = xor<br> << = shift gauche<br> >> = shift droite<br> ~ = complément  |
-
+|    |     Les Signes    |
+|:--:|:-----------------:|
+| == |      égalité      |
+| != |     différence    |
+|  > |     supérieur     |
+|  < |     inférieur     |
+| >= | supérieur ou égal |
+| <= | inférieur ou égal |
+|  = |    affectation    |
+|  ^ |        xor        |
+| << |    shift gauche   |
+| >> |    shift droite   |
+|  ~ |     complément    |
 
 
 |                       tableau ou array                       |   |
