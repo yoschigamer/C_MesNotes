@@ -27,6 +27,8 @@ int main(void)
 | / |    division    |
 | % |     modulo     |
 
+
+
 | 0  |     Les Signes    |
 |:--:|:-----------------:|
 | == |      égalité      |
