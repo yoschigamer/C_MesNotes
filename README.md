@@ -29,7 +29,9 @@ https://ilay.org/yann/articles/mem/
 | / |    division    |
 | % |     modulo     |
 
-```2```
+```
+2
+```
 
 | 0  |     Les Signes    |
 |:--:|:-----------------:|
@@ -45,7 +47,9 @@ https://ilay.org/yann/articles/mem/
 | >> |    shift droite   |
 |  ~ |     complément    |
 
-```3```
+```
+3
+```
 
 | 0    | Comparateur |
 |------|-------------|
@@ -53,7 +57,9 @@ https://ilay.org/yann/articles/mem/
 | \|\| |      ou     |
 |   !  |  différent  |
 
-```4```
+```
+4
+```
 
 |                       tableau ou array                       |   |
 |:------------------------------------------------------------:|:-:|
