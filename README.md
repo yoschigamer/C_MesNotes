@@ -23,8 +23,8 @@ int main(void)
 |:--------------------------------------------------------------------------------------------------:|
 | + = addition <br> - = soustraction <br> * = multiplication <br> / = division <br> % = modulo <br> && = et <br> \|\| = ou <br> ! = non |
 
-|                                                                                                          Les signes                                                                                                         |
-|    |     Les Signes    |
+
+| 0  |     Les Signes    |
 |:--:|:-----------------:|
 | == |      égalité      |
 | != |     différence    |
