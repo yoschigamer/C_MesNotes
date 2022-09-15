@@ -18,7 +18,7 @@ Gestion de la mémoire en C
 https://ilay.org/yann/articles/mem/
 
 
-
+``````
 | 0 |   Les Signes   |
 |:-:|:--------------:|
 | + |    addition    |
@@ -28,6 +28,7 @@ https://ilay.org/yann/articles/mem/
 | % |     modulo     |
 
 <br>
+``````
 <br>
 
 | 0  |     Les Signes    |
@@ -45,6 +46,7 @@ https://ilay.org/yann/articles/mem/
 |  ~ |     complément    |
 
 <br>
+``````
 <br>
 
 | 0    | Comparateur |
@@ -54,6 +56,7 @@ https://ilay.org/yann/articles/mem/
 |   !  |  différent  |
 
 <br>
+``````
 <br>
 
 |                       tableau ou array                       |   |
