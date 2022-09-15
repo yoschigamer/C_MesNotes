@@ -101,6 +101,9 @@ https://ilay.org/yann/articles/mem/
 
 7
 ===============================
+== Types et variables
+=== Types
+Le langage C possède de nombreux types différents, parmi lesquels nombres entiers, nombres décimaux, charactères, structures, etc.
 
 .Exemple de tailles des différents types:
 [cols=2*,options="header"]
