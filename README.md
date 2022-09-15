@@ -53,7 +53,9 @@ https://ilay.org/yann/articles/mem/
 3
 ===============================
 
-| ```0```    | Comparateur |
+| ```0```    | 
+
+ateur |
 |------|-------------|
 |  &&  |      et     |
 | \|\| |      ou     |
@@ -70,7 +72,7 @@ https://ilay.org/yann/articles/mem/
 5
 ===============================
 
-| ```0```  | Comparateur                                                             |
+| ```0```  |                        Comparateur                                |
 |----|-------------------------------------------------------------------------|
 | %c |                                caractère                                |
 | %s |                           chaîne de caractères                          |
