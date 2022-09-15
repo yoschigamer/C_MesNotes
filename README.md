@@ -13,7 +13,7 @@
     <td class="tg-lboi"><p>
       int ft_fibonacci(int index)<br>
 {<br>
-    <p STYLE="padding:20px 0 0 0px;">int nb = 0;</p><br>
+    <p STYLE="padding:0px 20px 0 0px;">int nb = 0;</p><br>
     <p>inb2 = 0;</p><br>
     <p>inb3 = 1;</p><br>
     i;<br>
