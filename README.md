@@ -24,7 +24,7 @@ https://ilay.org/yann/articles/mem/
 1
 ===============================
 
-| 0 |   Les Signes   |
+| ```0``` |   Les Signes   |
 |:-:|:--------------:|
 | + |    addition    |
 | - |  soustraction  |
@@ -36,7 +36,7 @@ https://ilay.org/yann/articles/mem/
 2
 ===============================
 
-| 0  |     Les Signes    |
+| ```0```  |     Les Signes    |
 |:--:|:-----------------:|
 | == |      égalité      |
 | != |     différence    |
@@ -53,7 +53,7 @@ https://ilay.org/yann/articles/mem/
 3
 ===============================
 
-| 0    | Comparateur |
+| ```0```    | Comparateur |
 |------|-------------|
 |  &&  |      et     |
 | \|\| |      ou     |
@@ -70,7 +70,7 @@ https://ilay.org/yann/articles/mem/
 5
 ===============================
 
-| 0  | Comparateur                                                             |
+| ```0```  | Comparateur                                                             |
 |----|-------------------------------------------------------------------------|
 | %c |                                caractère                                |
 | %s |                           chaîne de caractères                          |
@@ -92,7 +92,7 @@ https://ilay.org/yann/articles/mem/
 6
 ===============================
 
-| 0           | Comparateur           |
+| ```0```           | Comparateur           |
 |-------------|-----------------------|
 |  maVariable |  Valeur de maVariable |
 | &maVariable | Adresse de maVariable |
