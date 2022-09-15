@@ -109,8 +109,15 @@ https://ilay.org/yann/articles/mem/
  signed char | -128 à 127 |
  unsigned char | 0 à 255 |
  short / signed short | -32 768 à 32 767 |
+ unsigned short | 0 | 65 535 |
  int | -2 147 483 647 à 2 147 483 647 |
+ unsigned int | 0 | 65 535 |
  long | -9 223 372 036 854 775 808 à 9 223 372 036 854 775 807 |
+ unsigned long | 0 | 4 294 967 295 |
+ long long | -9 223 372 036 854 775 807 | 9 223 372 036 854 775 807 |
+ unsigned long long | 0 | 18 446 744 073 709 551 615 |
+ long double | -1 × 1037 | 1 × 1037 |
+ double | -1 × 1037 | 1 × 1037 |
 
 
 in build
