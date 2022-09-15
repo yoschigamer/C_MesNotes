@@ -98,8 +98,8 @@ https://ilay.org/yann/articles/mem/
 *   https://youtu.be/90hGCMC3Chc?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j
 */
 
-
-/*  mettre une chaine de caractères dans une function
+```c
+mettre une chaine de caractères dans une function
 char *ft_print_comb(char chaine[])
 {
     int i = 0;
@@ -220,3 +220,4 @@ int ft_sqrt(int nb)
     else 
         return 0;
 }
+```
