@@ -138,6 +138,7 @@ https://ilay.org/yann/articles/mem/
      160  p   161  q   162  r   163  s   164  t   165  u   166  v   167  w
      170  x   171  y   172  z   173  {   174  |   175  }   176  ~   177 del
 ```
+```
      The hexadecimal set:
 
      00 nul   01 soh   02 stx   03 etx   04 eot   05 enq   06 ack   07 bel
@@ -156,9 +157,11 @@ https://ilay.org/yann/articles/mem/
      68  h    69  i    6a  j    6b  k    6c  l    6d  m    6e  n    6f  o
      70  p    71  q    72  r    73  s    74  t    75  u    76  v    77  w
      78  x    79  y    7a  z    7b  {    7c  |    7d  }    7e  ~    7f del
-
+```
+```
      The decimal set:
-
+     ```
+```
        0 nul    1 soh    2 stx    3 etx    4 eot    5 enq    6 ack    7 bel
        8 bs     9 ht    10 nl    11 vt    12 np    13 cr    14 so    15 si
       16 dle   17 dc1   18 dc2   19 dc3   20 dc4   21 nak   22 syn   23 etb
@@ -167,6 +170,7 @@ https://ilay.org/yann/articles/mem/
       40  (    41  )    42  *    43  +    44  ,    45  -    46  .    47  /
       48  0    49  1    50  2    51  3    52  4    53  5    54  6    55  7
       56  8    57  9    58  :    59  ;    60  <    61  =    62  >    63  ?
+      ```
 
 in build
 ===============================
