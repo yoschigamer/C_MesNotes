@@ -26,9 +26,11 @@ int main(void)
 | * | multiplication |
 | / |    division    |
 | % |     modulo     |
+
 <br>
 <br>
 <br>
+
 | 0  |     Les Signes    |
 |:--:|:-----------------:|
 | == |      égalité      |
