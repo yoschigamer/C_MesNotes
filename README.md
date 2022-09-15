@@ -89,6 +89,15 @@ https://ilay.org/yann/articles/mem/
 | %n |                       nombre de caractères écrits                       |
 | %b |                            nombre en binaire                            |
 
+6
+===============================
+
+| 0           | Comparateur           |
+|-------------|-----------------------|
+|  maVariable |  Valeur de maVariable |
+| &maVariable | Adresse de maVariable |
+| *maVariable |  Valeur de maVariable |
+
 in build
 ===============================
 
