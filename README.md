@@ -72,7 +72,7 @@ ateur |
 5
 ===============================
 
-| ```0```  |                        Comparateur                                |
+| ```0```  |                  Indicateur de conversion                         |
 |----|-------------------------------------------------------------------------|
 | %c |                                caractère                                |
 | %s |                           chaîne de caractères                          |
@@ -94,7 +94,7 @@ ateur |
 6
 ===============================
 
-| ```0```           | Comparateur           |
+| ```0```           | Pointeur           |
 |-------------|-----------------------|
 |  maVariable |  Valeur de maVariable |
 | &maVariable | Adresse de maVariable |
