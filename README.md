@@ -98,7 +98,20 @@ https://ilay.org/yann/articles/mem/
 | &maVariable | Adresse de maVariable |
 | *maVariable |  Valeur de maVariable |
 
-| void *ptr; //déclaration d'un pointeur de type void<br>ptr = 0x12345678; //initialisation du pointeur à l'adresse 0x12345678 <br>    ptr = &ptr; //initialisation du pointeur à l'adresse du pointeur  <br>   ptr = 0; //initialisation du pointeur à 0  <br>   ptr = NULL; //initialisation du pointeur à NULL  <br>   ptr = (void *)0; //initialisation du pointeur à l'adresse 0   <br>  ptr = (void *)&ptr; //initialisation du pointeur à l'adresse du pointeur   <br>  ptr = (void *)0x12345678; //initialisation du pointeur à l'adresse 0x12345678 | 
+
+7
+===============================
+
+[cols=2*,options="header"]
+|===
+ Type | Taille |
+ char | 0 à 255 |
+ signed char | -128 à 127 |
+ unsigned char | 0 à 255 |
+ short / signed short | -32 768 à 32 767 |
+ int | -2 147 483 647 à 2 147 483 647 |
+ long | -9 223 372 036 854 775 808 à 9 223 372 036 854 775 807 |
+|===
 
 in build
 ===============================
