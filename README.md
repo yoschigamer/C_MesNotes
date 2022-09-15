@@ -18,7 +18,9 @@ Gestion de la mémoire en C
 https://ilay.org/yann/articles/mem/
 
 
-```1```
+```
+1
+```
 | 0 |   Les Signes   |
 |:-:|:--------------:|
 | + |    addition    |
