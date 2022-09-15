@@ -158,9 +158,7 @@ https://ilay.org/yann/articles/mem/
      70  p    71  q    72  r    73  s    74  t    75  u    76  v    77  w
      78  x    79  y    7a  z    7b  {    7c  |    7d  }    7e  ~    7f del
 ```
-```
      The decimal set:
-     ```
 ```
        0 nul    1 soh    2 stx    3 etx    4 eot    5 enq    6 ack    7 bel
        8 bs     9 ht    10 nl    11 vt    12 np    13 cr    14 so    15 si
