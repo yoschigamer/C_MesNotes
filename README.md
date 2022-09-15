@@ -102,6 +102,7 @@ https://ilay.org/yann/articles/mem/
 7
 ===============================
 
+.Exemple de tailles des différents types:
 [cols=2*,options="header"]
 |===
  Type | Taille |
