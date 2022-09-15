@@ -13,9 +13,9 @@
     <td class="tg-lboi"><p>
       int ft_fibonacci(int index)<br>
 {<br>
-    <p>int nb = 0;</p><br>
-    <p>inb2 = 0;</p><br>
-    <p>inb3 = 1;</p><br>
+    &nbspint nb = 0;<br>
+    inb2 = 0;<br>
+    nb3 = 1;<br>
     i;<br>
     i = 0;\n
     if (index < 0)<br>
