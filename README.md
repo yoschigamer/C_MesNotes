@@ -12,7 +12,7 @@ int main(void)
 	return 0; //retour de la fonction main
 }
 
-
+```
 /*
 *   Gestion de la mémoire en C
 *   https://ilay.org/yann/articles/mem/
@@ -216,4 +216,3 @@ int ft_sqrt(int nb)
     else 
         return 0;
 }
-```
