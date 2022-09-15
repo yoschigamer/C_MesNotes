@@ -103,17 +103,13 @@ in build
 
 |                                                                                                                                                                                                                                                            Les pointeurs                                                                                                                                                                                                                                                            |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| un pionteur est une variable qui pointe vers une adresse de mémoire comme 0x12345678.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| un pionteur est une variable qui pointe vers une adresse de mémoire comme 0x12345678.                                                                                                                                                                                                                     
+```balec que ça soit ;oche de toute façons personne comprend les pointeur``
+
+|
 | void *ptr; //déclaration d'un pointeur de type void<br>ptr = 0x12345678; //initialisation du pointeur à l'adresse 0x12345678 <br>    ptr = &ptr; //initialisation du pointeur à l'adresse du pointeur  <br>   ptr = 0; //initialisation du pointeur à 0  <br>   ptr = NULL; //initialisation du pointeur à NULL  <br>   ptr = (void *)0; //initialisation du pointeur à l'adresse 0   <br>  ptr = (void *)&ptr; //initialisation du pointeur à l'adresse du pointeur   <br>  ptr = (void *)0x12345678; //initialisation du pointeur à l'adresse 0x12345678 |
 
 	https://www.youtube.com/watch?v=KHXYGW8xySg
-
-| 0           | Comparateur           |
-|-------------|-----------------------|
-|  maVariable |  Valeur de maVariable |
-| &maVariable | Adresse de maVariable |
-| *maVariable |  Valeur de maVariable |
-
 /*
 *   https://youtu.be/90hGCMC3Chc?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j
 */
