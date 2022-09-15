@@ -84,24 +84,24 @@ in build
 | &maVariable | Adresse de maVariable |
 | *maVariable |  Valeur de maVariable |
 
-/*
-*   %c = caractère
-*   %s = chaîne de caractères
-*   %d = nombre entier
-*   %i = nombre entier
-*   %u = nombre entier non signé
-*   %o = nombre entier non signé en octal
-*   %x = nombre entier non signé en hexadécimal
-*   %X = nombre entier non signé en hexadécimal en majuscule
-*   %f = nombre décimal
-*   %e = nombre décimal en format scientifique
-*   %E = nombre décimal en format scientifique en majuscule
-*   %g = nombre décimal en format scientifique ou en format décimal
-*   %G = nombre décimal en format scientifique ou en format décimal en majuscule
-*   %p = adresse mémoire
-*   %n = nombre de caractères écrits
-*   %b = nombre en binaire
-*/
+| 0  | Comparateur                                                             |
+|----|-------------------------------------------------------------------------|
+| %c |                                caractère                                |
+| %s |                           chaîne de caractères                          |
+| %d |                              nombre entier                              |
+| %i |                              nombre entier                              |
+| %u |                         nombre entier non signé                         |
+| %o |                     nombre entier non signé en octal                    |
+| %x |                  nombre entier non signé en hexadécimal                 |
+| %X |           nombre entier non signé en hexadécimal en majuscule           |
+| %f |                              nombre décimal                             |
+| %e |                  nombre décimal en format scientifique                  |
+| %E |            nombre décimal en format scientifique en majuscule           |
+| %g |        nombre décimal en format scientifique ou en format décimal       |
+| %G | nombre décimal en format scientifique ou en format décimal en majuscule |
+| %p |                             adresse mémoire                             |
+| %n |                       nombre de caractères écrits                       |
+| %b |                            nombre en binaire                            |
 
 /*
 *   https://youtu.be/90hGCMC3Chc?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j
