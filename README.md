@@ -12,9 +12,10 @@
   <tr>
     <td class="tg-lboi">
       int ft_fibonacci(int index)<br>
-{<br>     int nb = 0;<br>     int nb2 = 0;<br>
-    int nb3 = 1;<br>
-    int i;<br>
+{<br>     int nb = 0;<br>
+    &emspint nb2 = 0;<br>
+    &emspint nb3 = 1;<br>
+    &emspint i;<br>
     i = 0;\n
     if (index < 0)<br>
         return -1;<br>
