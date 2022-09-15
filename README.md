@@ -104,6 +104,7 @@ https://ilay.org/yann/articles/mem/
 
 
  |Type | Taille |
+ |--------|-----|
  char | 0 à 255 |
  signed char | -128 à 127 |
  unsigned char | 0 à 255 |
