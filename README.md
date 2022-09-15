@@ -18,32 +18,25 @@ int main(void)
 *   https://ilay.org/yann/articles/mem/
 */
 
-/*
-operations 
-+ = addition
-- = soustraction
-* = multiplication
-*   / = division
-*   % = modulo
-*
-*   && = et
-*   || = ou
-*   ! = non
-*
-*   signe
-*   == = égalité
-*   != = différence
-*   > = supérieur
-*   < = inférieur
-*   >= = supérieur ou égal
-*   <= = inférieur ou égal
-*   = = affectation
-*   ^ = xor
-*   << = shift gauche
-*   >> = shift droite
-*   ~ = complément
-*
-*/
+
+|                                           Les operations                                           |
+|:--------------------------------------------------------------------------------------------------:|
+| + = addition <br> - = soustraction <br> * = multiplication <br> / = division <br> % = modulo <br> && = et <br> \|\| = ou <br> ! = non |
+
+signe
+== = égalité
+!= = différence
+> = supérieur
+< = inférieur
+>= = supérieur ou égal
+<= = inférieur ou égal
+= = affectation
+^ = xor
+<< = shift gauche
+>> = shift droite
+~ = complément
+
+
 
 |                       tableau ou array                       |   |
 |:------------------------------------------------------------:|:-:|
