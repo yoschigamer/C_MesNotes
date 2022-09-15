@@ -65,11 +65,11 @@ int main(void)
 *   https://www.youtube.com/watch?v=KHXYGW8xySg
 */
 
-/*
-*   maVariable = Valeur de maVariable; 
-*   &maVariable = Adresse de maVariable;
-*   *maVariable = Valeur de maVariable;
-*/
+| 0           | Comparateur           |
+|-------------|-----------------------|
+|  maVariable |  Valeur de maVariable |
+| &maVariable | Adresse de maVariable |
+| *maVariable |  Valeur de maVariable |
 
 /*
 *   %c = caractère
