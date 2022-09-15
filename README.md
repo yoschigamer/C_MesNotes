@@ -101,21 +101,22 @@ https://ilay.org/yann/articles/mem/
 
 7
 ===============================
-== Types et variables
-=== Types
-Le langage C possède de nombreux types différents, parmi lesquels nombres entiers, nombres décimaux, charactères, structures, etc.
 
-.Exemple de tailles des différents types:
-[cols=2*,options="header"]
-|===
- Type | Taille |
+
+ |Type | Taille |
+ |	-------	|-------	|
  char | 0 à 255 |
+  |	-------	|-------	|
  signed char | -128 à 127 |
+  |	-------	|-------	|
  unsigned char | 0 à 255 |
+  |	-------	| -------	|
  short / signed short | -32 768 à 32 767 |
+   |	-------	| -------	|
  int | -2 147 483 647 à 2 147 483 647 |
+   |	-------	| -------	|
  long | -9 223 372 036 854 775 808 à 9 223 372 036 854 775 807 |
-|===
+
 
 in build
 ===============================
