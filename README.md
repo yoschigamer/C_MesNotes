@@ -1,26 +1,8 @@
-\begin{table}[]
-\begin{tabular}{ll}
-\hline
-\multicolumn{1}{|c|}{} & \multicolumn{1}{c|}{} \\ \hline
-                       &                      
-\end{tabular}
-\caption{int ft_fibonacci(int index)
-{
-    int nb = 0;
-    int nb2 = 0;
-    int nb3 = 1;
-    int i;
-    i = 0;
-    if (index < 0)
-        return -1;
-    if (index == 0)
-        return 0;
-    if (index == 1)
-        return 1;
-    while (i < index)
-        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));
-    return 0;
-}
-}
-\label{tab:my-table}
-\end{table}
+{| class="wikitable" style="text-align:center;"
+|-
+! 
+! 
+|- style="text-align:left;"
+| \begin{table}[]<br />\begin{tabular}{ll}<br />\hline<br />\multicolumn{1}{|c|}{} & \multicolumn{1}{c|}{} \\ \hline<br />                       &                      <br />\end{tabular}<br />\caption{int ft_fibonacci(int index)<br />{<br />    int nb = 0;<br />    int nb2 = 0;<br />    int nb3 = 1;<br />    int i;<br />    i = 0;<br />    if (index < 0)<br />        return -1;<br />    if (index == 0)<br />        return 0;<br />    if (index == 1)<br />        return 1;<br />    while (i < index)<br />        return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));<br />    return 0;<br />}<br />}<br />\label{tab:my-table}<br />\end{table}<br />
+| 
+|}
