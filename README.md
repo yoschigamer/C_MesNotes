@@ -138,9 +138,9 @@ https://ilay.org/yann/articles/mem/
      160  p   161  q   162  r   163  s   164  t   165  u   166  v   167  w
      170  x   171  y   172  z   173  {   174  |   175  }   176  ~   177 del
 ```
-     The hexadecimal set:
-    ```
 
+     The hexadecimal set:
+```
      00 nul   01 soh   02 stx   03 etx   04 eot   05 enq   06 ack   07 bel
      08 bs    09 ht    0a nl    0b vt    0c np    0d cr    0e so    0f si
      10 dle   11 dc1   12 dc2   13 dc3   14 dc4   15 nak   16 syn   17 etb
