@@ -47,23 +47,16 @@ int main(void)
 
 |                       tableau ou array                       |   |
 |:------------------------------------------------------------:|:-:|
-| array[x] = {valeur, valeur, valeur, ...,  NULL} \|           |   |
-| ```c array[x] = valeur x reprèsent la taille du tableau  ``` |   |
+|        array[x] = {valeur, valeur, valeur, ...,  NULL}       |   |
+|      array[x] = valeur x reprèsent la taille du tableau      |   |
 
-/*
-*   un pionteur est une variable qui pointe vers une adresse de mémoire comme 0x12345678.
-*
-*    void *ptr; //déclaration d'un pointeur de type void
-*    ptr = 0x12345678; //initialisation du pointeur à l'adresse 0x12345678
-*    ptr = &ptr; //initialisation du pointeur à l'adresse du pointeur
-*    ptr = 0; //initialisation du pointeur à 0
-*    ptr = NULL; //initialisation du pointeur à NULL
-*    ptr = (void *)0; //initialisation du pointeur à l'adresse 0
-*    ptr = (void *)&ptr; //initialisation du pointeur à l'adresse du pointeur
-*    ptr = (void *)0x12345678; //initialisation du pointeur à l'adresse 0x12345678
-*
-*   https://www.youtube.com/watch?v=KHXYGW8xySg
-*/
+
+|                                                                                                                                                                                                                                                            Les pointeurs                                                                                                                                                                                                                                                            |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| un pionteur est une variable qui pointe vers une adresse de mémoire comme 0x12345678.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| void *ptr; //déclaration d'un pointeur de type void     ptr = 0x12345678; //initialisation du pointeur à l'adresse 0x12345678     ptr = &ptr; //initialisation du pointeur à l'adresse du pointeur     ptr = 0; //initialisation du pointeur à 0     ptr = NULL; //initialisation du pointeur à NULL     ptr = (void *)0; //initialisation du pointeur à l'adresse 0     ptr = (void *)&ptr; //initialisation du pointeur à l'adresse du pointeur     ptr = (void *)0x12345678; //initialisation du pointeur à l'adresse 0x12345678 |
+
+	https://www.youtube.com/watch?v=KHXYGW8xySg
 
 /*
 *   maVariable = Valeur de maVariable; 
