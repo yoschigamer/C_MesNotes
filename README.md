@@ -11,20 +11,20 @@
 <tbody>
   <tr>
     <td class="tg-lboi">
-      int ft_fibonacci(int index)
-{
-    int nb = 0;
-    int nb2 = 0;
-    int nb3 = 1;
-    int i;
-    i = 0;
-    if (index < 0)
-        return -1;
-    if (index == 0)
-        return 0;
-    if (index == 1)
-        return 1;
-    while (i < index)
+      int ft_fibonacci(int index)\n
+{\n
+    int nb = 0;\n
+    int nb2 = 0;\n
+    int nb3 = 1;\n
+    int i;\n
+    i = 0;\n
+    if (index < 0)\n
+        return -1;\n
+    if (index == 0)\n
+        return 0;\n
+    if (index == 1)\n
+        return 1;\n
+    while (i < index)\n
         return (ft_fibonacci(index - 1) + ft_fibonacci(index - 2));
     return 0;
 }<br>d<br></td>
