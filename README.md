@@ -13,10 +13,10 @@ int main(void)
 }
 
 ```
-/*
-*   Gestion de la mémoire en C
-*   https://ilay.org/yann/articles/mem/
-*/
+
+Gestion de la mémoire en C
+https://ilay.org/yann/articles/mem/
+
 
 
 | 0 |   Les Signes   |
@@ -27,7 +27,6 @@ int main(void)
 | / |    division    |
 | % |     modulo     |
 
-<br>
 <br>
 <br>
 
@@ -45,6 +44,17 @@ int main(void)
 | >> |    shift droite   |
 |  ~ |     complément    |
 
+<br>
+<br>
+
+| 0    | Comparateur |
+|------|-------------|
+|  &&  |      et     |
+| \|\| |      ou     |
+|   !  |  différent  |
+
+<br>
+<br>
 
 |                       tableau ou array                       |   |
 |:------------------------------------------------------------:|:-:|
