@@ -171,7 +171,7 @@ https://ilay.org/yann/articles/mem/
 ```
 
 
-in build
+in build / non à jour
 ===============================
 
 |                                                                                                                                                                                                                                                            Les pointeurs                                                                                                                                                                                                                                                            |
